@@ -37,12 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ovixm/ovixm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **ovixm/ovixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
